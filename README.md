@@ -1,5 +1,10 @@
 
-![Microsoft_Azure svg](https://github.com/user-attachments/assets/6ace05f0-8c3e-47db-af61-5f25707cd90c)
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://github.com/user-attachments/assets/6ace05f0-8c3e-47db-af61-5f25707cd90c" alt="Microsoft Azure" width="200"/>    
+  </a>
+</p>
+
 
 # Azure Blob Storage with MongoDB Integration
 
